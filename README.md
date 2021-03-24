@@ -1,4 +1,4 @@
-# internhip_app
+# Flutter app
 
 A new Flutter application.
 
